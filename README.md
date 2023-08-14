@@ -7,6 +7,7 @@ It will handle HTTP requests in controllers, create services, and respond with J
 - Java
 - Spring Framework (Spring Boot, Spring MVC)
 - RESTful API design
+- Jackson 
 - JSON Serialization/Deserialization
 - IntelliJ IDEA
 
